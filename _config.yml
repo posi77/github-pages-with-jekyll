@@ -1,4 +1,7 @@
-
+---
+title: "The question we all wonder"
+date: 2021-03-28
+---
 author: DIAVOLO
 email: poyrazgulcan1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -10,7 +13,3 @@ github_username:  posi77 # DO NOT include the @ character, or else the build wil
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
-title: "The question we all wonder"
-date: 2021-03-28
----
